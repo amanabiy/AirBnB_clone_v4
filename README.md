@@ -155,9 +155,8 @@ No known bugs at this time.
 
 ## Authors
 Amanuel Abiy
-Tinsaye Simeneh
-  
 
-Second part of Airbnb: Joann Vuong
+  Tinsaye Simeneh
+  
 ## License
 Public Domain. No copy write protection. 
